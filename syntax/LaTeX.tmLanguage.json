@@ -1181,7 +1181,7 @@
       "begin": "((\\\\)(?:[aA]uto|foot|full|no|short|[tT]ext|[pP]aren|[sS]mart)?[cC]ite(?:al)?(?:p|s|t|author|year(?:par)?|title)?[ANP]*\\*?)((?:(?:\\([^\\)]*\\)){0,2}(?:\\[[^\\]]*\\]){0,2}\\{[\\w:.]*\\})*)(?:(\\[)[^\\]]*(\\]))?(?:(\\[)[^\\]]*(\\]))?(\\{)",
       "captures": {
         "1": {
-          "name": "keyword.control.cite.latex"
+          "name": "support.function.cite.latex"
         },
         "2": {
           "name": "punctuation.definition.keyword.latex"
@@ -1227,7 +1227,7 @@
       "begin": "((\\\\)bibentry)(\\{)",
       "captures": {
         "1": {
-          "name": "keyword.control.cite.latex"
+          "name": "support.function.cite.latex"
         },
         "2": {
           "name": "punctuation.definition.keyword.latex"
@@ -1254,7 +1254,7 @@
       "begin": "((\\\\)(?:\\w*[r|R]ef\\*?))(\\{)",
       "beginCaptures": {
         "1": {
-          "name": "keyword.control.ref.latex"
+          "name": "support.function.ref.latex"
         },
         "2": {
           "name": "punctuation.definition.keyword.latex"
@@ -1637,7 +1637,7 @@
       "begin": "((\\\\)label)(\\{)",
       "beginCaptures": {
         "1": {
-          "name": "keyword.control.label.latex"
+          "name": "support.function.label.latex"
         },
         "2": {
           "name": "punctuation.definition.keyword.latex"
