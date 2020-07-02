@@ -1422,13 +1422,13 @@
       "begin": "\\\\\\(",
       "beginCaptures": {
         "0": {
-          "name": "punctuation.definition.string.begin.latex"
+          "name": "string.other.math.latex punctuation.definition.string.begin.latex"
         }
       },
       "end": "\\\\\\)",
       "endCaptures": {
         "0": {
-          "name": "punctuation.definition.string.end.latex"
+          "name": "string.other.math.latex punctuation.definition.string.end.latex"
         }
       },
       "name": "meta.math.block.latex",
@@ -1445,13 +1445,13 @@
       "begin": "\\$\\$",
       "beginCaptures": {
         "0": {
-          "name": "punctuation.definition.string.begin.latex"
+          "name": "string.other.math.latex punctuation.definition.string.begin.latex"
         }
       },
       "end": "\\$\\$",
       "endCaptures": {
         "0": {
-          "name": "punctuation.definition.string.end.latex"
+          "name": "string.other.math.latex punctuation.definition.string.end.latex"
         }
       },
       "name": "meta.math.block.latex",
@@ -1472,13 +1472,13 @@
       "begin": "\\\\\\[",
       "beginCaptures": {
         "0": {
-          "name": "punctuation.definition.string.begin.latex"
+          "name": "string.other.math.latex punctuation.definition.string.begin.latex"
         }
       },
       "end": "\\\\\\]",
       "endCaptures": {
         "0": {
-          "name": "punctuation.definition.string.end.latex"
+          "name": "string.other.math.latex punctuation.definition.string.end.latex"
         }
       },
       "name": "meta.math.block.latex",

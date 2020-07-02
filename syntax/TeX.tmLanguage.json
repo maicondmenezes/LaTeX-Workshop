@@ -84,13 +84,13 @@
       "begin": "(\\$\\$|\\$)",
       "beginCaptures": {
         "1": {
-          "name": "punctuation.definition.string.begin.tex"
+          "name": "string.other.math.latex punctuation.definition.string.begin.tex"
         }
       },
       "end": "(\\1)",
       "endCaptures": {
         "1": {
-          "name": "punctuation.definition.string.end.tex"
+          "name": "string.other.math.latex punctuation.definition.string.end.tex"
         }
       },
       "name": "meta.math.block.tex",
